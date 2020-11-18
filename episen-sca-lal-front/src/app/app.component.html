@@ -1,0 +1,11 @@
+<form>
+  <div>
+    <label for="field">Champ :</label>
+    <input type="text"  [(ngModel)]="data" [ngModelOptions]="{standalone: true}">
+  </div>
+  <div>
+    <input type="button" value="Envoyer" (click)="sendData()">
+  </div>
+</form>
+
+<router-outlet></router-outlet>
