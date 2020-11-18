@@ -5,7 +5,9 @@ episen-sca-lal-back/.idea
 episen-sca-lal-front/.idea
 episen-sca-lal-back/target
 episen-sca-lal-back/.mvn
+episen-sca-lal-back/episen-sca-lal-back.iml
+episen-sca-lal-back/HELP.md
 episen-sca-lal-back/mvnw
 episen-sca-lal-back/mvnw.cmd
-episen-sca-lal-back/HELP.md
-episen-sca-lal-back/episen-sca-lal-back.iml
+*.log
+backend-data/orders.txt
